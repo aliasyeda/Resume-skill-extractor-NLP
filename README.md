@@ -15,6 +15,8 @@ Technical Skills
 
 The project demonstrates the use of Natural Language Processing (NLP) techniques such as tokenization, Named Entity Recognition (NER), and keyword matching.
 
+---
+
 🛠️ Technologies Used
 
 Python
@@ -25,10 +27,12 @@ NLTK (Tokenization)
 
 Regular Expressions (Regex)
 
+---
 📂 Input
 
 Resume text provided as a string inside the Python code
 (can be extended to .txt file input)
+---
 
 📤 Output
 
@@ -39,6 +43,7 @@ Location: Bangalore
 Organization: Google
 Detected Skills: ['Python', 'TensorFlow', 'AWS', 'Docker']
 
+---
 ⚙️ How It Works
 
 Loads the spaCy English language model
@@ -57,6 +62,8 @@ Matches tokens with a predefined technical skills list
 
 Displays extracted entities and skills
 
+---
+
 ▶️ How to Run
 
 Install dependencies:
@@ -68,7 +75,7 @@ python -m spacy download en_core_web_sm
 
 
 
-
+---
 🎯 Learning Outcomes
 
 Practical use of spaCy for entity extraction
@@ -79,6 +86,7 @@ Keyword-based skill extraction
 
 Real-world text processing
 
+---
 👨‍💻 Author
 
 SYEDA ALIA SAMIA
