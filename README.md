@@ -28,11 +28,14 @@ NLTK (Tokenization)
 Regular Expressions (Regex)
 
 ---
+
 📂 Input
 
 Resume text provided as a string inside the Python code
 (can be extended to .txt file input)
+
 ---
+
 
 📤 Output
 
