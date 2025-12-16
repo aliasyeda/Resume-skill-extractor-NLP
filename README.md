@@ -1,5 +1,7 @@
 # Resume-skill-extractor-NLP
 🧠 Resume Skill Extractor using NLTK & spaCy
+
+
 📌 Project Overview
 
 This project is a Python-based Resume Skill Extractor built using NLTK and spaCy.
